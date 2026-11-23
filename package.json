@@ -1,0 +1,29 @@
+{
+  "name": "rent-direct-backend",
+  "version": "1.0.0",
+  "description": " Rent direct backend application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ngueyye/rent-direct-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Ngueyye/rent-direct-backend/issues"
+  },
+  "homepage": "https://github.com/Ngueyye/rent-direct-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.10"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
